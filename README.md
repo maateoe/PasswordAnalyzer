@@ -1,6 +1,4 @@
-🧙‍♂️ Password Wizards: Defensive Entropy Analysis
-
-<h1>Password Wizards: Predictive Strength & Risk Analysis</h1>
+<h1>🧙‍♂️ Password Wizards: Predictive Strength & Risk Analysis</h1>
 
 <p>
 This project provides a <b>defensive security interface</b> designed to quantify password entropy and predict resistance against modern brute-force attacks. By leveraging the <b>zxcvbn</b> algorithm, this tool moves beyond archaic character-requirement checklists to evaluate passwords based on pattern recognition and dictionary-match frequency.
