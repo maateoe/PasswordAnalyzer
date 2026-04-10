@@ -1,4 +1,3 @@
-Since you want the README for Password Wizards to match the high-level, professional "Lab Report" style of your Password Cracking project, here is the updated version. This version frames your Streamlit app as a security tool designed to prevent the very attacks described in your hash analysis project.
 🧙‍♂️ Password Wizards: Defensive Entropy Analysis
 
 <h1>Password Wizards: Predictive Strength & Risk Analysis</h1>
