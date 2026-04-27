@@ -3,7 +3,10 @@
 <p>
 This project provides a <b>defensive security interface</b> designed to quantify password entropy and predict resistance against modern brute-force attacks. By leveraging the <b>zxcvbn</b> algorithm, this tool moves beyond archaic character-requirement checklists to evaluate passwords based on pattern recognition and dictionary-match frequency.
 
-https://devpost.com/software/passwordanalyzer   
+<br />
+
+
+[Check out the project on Devpost!](https://devpost.com/software/passwordanalyzer)  
 </p>
 
 <h2>Utilities Used</h2>
